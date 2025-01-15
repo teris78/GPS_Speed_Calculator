@@ -36,9 +36,7 @@ Segment,Speed (km/h)
 ```
 
 ## How It Works
-- The script uses the **Haversine formula** to calculate the distance between consecutive GPS points.
+- The script uses the Haversine formula to calculate the distance between consecutive GPS points.
 - Speed is calculated using the distance traveled divided by the time difference.
 
-## License
-This project is licensed under the MIT License.
 
